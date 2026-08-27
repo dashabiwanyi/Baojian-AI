@@ -1,20 +1,20 @@
 {
   "schema": "baojian.update-manifest",
   "schema_version": 1,
-  "version": "0.2.2",
-  "published_at": "2026-08-28T04:49:26+08:00",
+  "version": "0.2.8",
+  "published_at": "2026-08-28T07:45:01+08:00",
   "mandatory": false,
-  "release_notes": "爆剪AI Windows x64 校园版，内置 207 首课堂曲库。",
+  "release_notes": "爆剪AI Windows x64 校园版更新。",
   "installer": {
-    "url": "https://github.com/dashabiwanyi/Baojian-AI/releases/download/0.2.2/BaojianAI-Setup-x64-0.2.2-campus2-music207.exe",
-    "filename": "BaojianAI-Setup-x64-0.2.2-campus2-music207.exe",
-    "size": 1435652775,
-    "sha256": "4355df55c4590af044da734aa07312254e50ef1770d5576c6af195855b2e437a",
+    "url": "https://github.com/dashabiwanyi/Baojian-AI/releases/download/0.2.8/BaojianAI-Setup-x64-0.2.8-campus2-music208.exe",
+    "filename": "BaojianAI-Setup-x64-0.2.8-campus2-music208.exe",
+    "size": 1435136332,
+    "sha256": "67d39089a6158c4cba913147ed83c3c1ece0d18e3f1f8cd1085a9210200df6b9",
     "mirrors": [
       {
-        "url": "https://download.baicha233.top/releases/BaojianAI-Setup-x64-0.2.2-campus2-music207.exe"
+        "url": "https://download.baicha233.top/releases/BaojianAI-Setup-x64-0.2.8-campus2-music208.exe"
       }
     ]
   },
-  "signature": "hfCtJOG6TUFQuSwgPdUJOMjEJKZnZ1j02yO-cbxJbafPfibB1XW4RNd-DM2h5MZ4RjCZT253XoX-E9ATaDyrAg"
+  "signature": "R-TNj5Ov2GuVrKpPh0xXis7TuDAO7gFCfy_kQfOUXALxgBay28PcKESdcfvXQHYnVgleoa_wkCBuKcDqUPQyDw"
 }
