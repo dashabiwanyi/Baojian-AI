@@ -1,20 +1,20 @@
 {
   "schema": "baojian.update-manifest",
   "schema_version": 1,
-  "version": "0.2.9",
-  "published_at": "2026-08-28T11:19:08+08:00",
+  "version": "0.2.10",
+  "published_at": "2026-08-28T12:43:44+08:00",
   "mandatory": false,
   "release_notes": "爆剪AI Windows x64 校园版更新。",
   "installer": {
-    "url": "https://github.com/dashabiwanyi/Baojian-AI/releases/download/0.2.9/BaojianAI-Setup-x64-0.2.9-campus2-music209.exe",
-    "filename": "BaojianAI-Setup-x64-0.2.9-campus2-music209.exe",
-    "size": 1439299045,
-    "sha256": "eed176b79ff9973971ba36b2969d5da29616441951702e802bb3e36ebff881b2",
+    "url": "https://github.com/dashabiwanyi/Baojian-AI/releases/download/0.2.10/BaojianAI-Setup-x64-0.2.10-campus2-music209.exe",
+    "filename": "BaojianAI-Setup-x64-0.2.10-campus2-music209.exe",
+    "size": 1438962682,
+    "sha256": "dba3b6efdf9cd6b4d432f28c3a176e2a40808afac871820c27365b9d80b585ec",
     "mirrors": [
       {
-        "url": "https://download.baicha233.top/releases/BaojianAI-Setup-x64-0.2.9-campus2-music209.exe"
+        "url": "https://download.baicha233.top/releases/BaojianAI-Setup-x64-0.2.10-campus2-music209.exe"
       }
     ]
   },
-  "signature": "C7qC8Cg5c58uiHsEsWb9gmPSFi0IhswJ7jkR9G_JgQN4Yz5hSgpPqC3IIc7ivTEdpIMF05QhUsOVrB84Yd7RCQ"
+  "signature": "EMuj39V03H0Hg7G177I4MdRsRvh-xPC9B99PAjWHwjqYW5mtUGnLgH5CpPin65r1vwKAZVEFMt_RTEji8KWZAQ"
 }
