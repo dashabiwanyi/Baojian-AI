@@ -2,7 +2,7 @@
   "schema": "baojian.update-manifest",
   "schema_version": 1,
   "version": "0.2.9",
-  "published_at": "2026-08-28T11:12:00+08:00",
+  "published_at": "2026-08-28T11:19:08+08:00",
   "mandatory": false,
   "release_notes": "爆剪AI Windows x64 校园版更新。",
   "installer": {
@@ -16,5 +16,5 @@
       }
     ]
   },
-  "signature": "ehoQgoP0NShUVVt1AW2Ws4iTlPMPn1UXOQlGGfUne4cWMFQMeSnhdthDVFOtLeXJkHQ4Ypx81Hj35JB0EQ_fBA"
+  "signature": "C7qC8Cg5c58uiHsEsWb9gmPSFi0IhswJ7jkR9G_JgQN4Yz5hSgpPqC3IIc7ivTEdpIMF05QhUsOVrB84Yd7RCQ"
 }
